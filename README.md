@@ -18,7 +18,7 @@ This Android app allows users to click on letters from names, opening a new scre
 ## **📸 Screenshots**
 
  | **Description Page** |
-|---------------|----------------|------------------| | ![Description]([https://raw.githubusercontent.com/arpitm1037/YourRepo/main/images/description.png](https://github.com/arpitm1037/NameLetters/blob/master/Screenshot%202025-03-02%20at%2015.31.38.png?raw=true)) |  ![Description]([https://raw.githubusercontent.com/arpitm1037/YourRepo/main/images/letter.png](https://github.com/arpitm1037/NameLetters/blob/master/Screenshot%202025-03-02%20at%2015.31.44.png?raw=true)) |
+|---------------|----------------|------------------| | ![Description](https://github.com/arpitm1037/NameLetters/blob/master/Screenshot%202025-03-02%20at%2015.31.38.png?raw=true) | ![Description](https://github.com/arpitm1037/NameLetters/blob/master/Screenshot%202025-03-02%20at%2015.31.44.png?raw=true) |
 
 ---
 
